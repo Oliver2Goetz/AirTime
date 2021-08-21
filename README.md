@@ -5,4 +5,4 @@ A Bakkesmod Plugin which shows how long a car styed in the air after jumping
 The timer starts when a car jumps. After landing on the wheels the timer stops and displays the time spent in the air.
 
 ### Example
-![Example image](https://github.com/Oliver2Goetz/AirTime/blob/9f27e52ceb6efb3e2ee46522f78827c3603203fe/.github/images/text.png)
+![Example image](https://github.com/Oliver2Goetz/AirTime/blob/a56c222cb99af201f14bf0a7914b504bfd863c0d/.github/images/text.png)
